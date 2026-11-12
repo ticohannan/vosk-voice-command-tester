@@ -1,0 +1,6 @@
+# Extracted model folders (the zips are committed; setup_models.py extracts them)
+models/vosk-model-*/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.pytest_cache/

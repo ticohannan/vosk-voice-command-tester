@@ -1,0 +1,9 @@
+vosk>=0.3.45
+sounddevice
+numpy
+scipy
+matplotlib
+ipywidgets>=8
+jupyterlab
+# Optional, for the Whisper double-check:
+# faster-whisper
